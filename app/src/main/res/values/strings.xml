@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quizo</string>
+    <string name="food_delivery_app">Quizo</string>
+    <string name="next_question">Next Question</string>
+    <string name="turing_machine_concepts_were_introduced_by">Turing Machine concepts were introduced by ?</string>
+    <string name="a_chandler">a) Chandler</string>
+    <string name="b_alan_turing">b) Alan Turing</string>
+    <string name="c_dijkstra">c) Dijkstra</string>
+    <string name="d_talha_khalid">d) Talha Khalid</string>
+    <string name="which_python_library_is_used_for_speech_to_text_and_text_to_speech">Which Python library is used for speech-to-text and text-to-speech ?</string>
+    <string name="a_opencv">a) opencv</string>
+    <string name="b_tensorflow">b) tensorflow</string>
+    <string name="pyttsx3">c) pyttsx3</string>
+    <string name="d_all_of_the_above">d) All of the above</string>
+    <string name="your_score">Your Score 😊</string>
+    <string name="computer_science">Computer Sciences Based</string>
+    <string name="videos_based">Videos Based</string>
+    <string name="what_s_the_name_of_that_person">What\'s the name of that person ?</string>
+    <string name="tobey_maguire">Tobey Maguire</string>
+    <string name="tom_holland">Tom Holland</string>
+    <string name="chris_evans">Chris Evans</string>
+    <string name="chris_hemsworth">Chris Hemsworth</string>
+    <string name="charles_oliveira">Charles Oliveira</string>
+    <string name="connor">Connor</string>
+    <string name="tony">Tony</string>
+    <string name="alex_pereira">Alex Pereira</string>
+</resources>

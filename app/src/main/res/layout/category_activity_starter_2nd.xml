@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:id="@+id/llGetInfo"
+    tools:context=".Category_Activity_Starter_2nd">
+
+    <!--    <com.google.android.material.textfield.TextInputLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        >-->
+
+    <!--        <com.google.android.material.textfield.TextInputEditText-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="match_parent"-->
+    <!--            android:hint="Enter your good name"-->
+    <!--            android:id="@+id/etName"-->
+    <!--            />-->
+
+    <!--    </com.google.android.material.textfield.TextInputLayout>-->
+
+    <!--    <com.google.android.material.textfield.TextInputLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        >-->
+
+    <!--        <com.google.android.material.textfield.TextInputEditText-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="match_parent"-->
+    <!--            android:hint="Enter your ID"-->
+    <!--            android:id="@+id/etId"-->
+    <!--            />-->
+
+    <!--    </com.google.android.material.textfield.TextInputLayout>-->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/computer_science"
+        android:layout_marginTop="30dp"
+        android:id="@+id/btn_a"
+        android:padding="40dp"
+        android:textSize="18sp"
+        android:backgroundTint="#d76e16"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/videos_based"
+        android:layout_marginTop="30dp"
+        android:id="@+id/btn_b"
+        android:padding="40dp"
+        android:textSize="20sp"
+        android:backgroundTint="#d76e16"
+        />
+    <!--    <Button-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:text="CANCEL"-->
+    <!--        android:id="@+id/btnCancel"-->
+    <!--        />-->
+
+</LinearLayout>
