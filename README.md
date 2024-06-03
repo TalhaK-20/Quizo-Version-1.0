@@ -21,7 +21,7 @@ https://github.com/TalhaK-20/Quizo-Version-1.0.0/assets/131589476/d2c292d7-419a-
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
     ```bash
     git clone https://github.com/TalhaK-20/Quizo-Version-1.0.0.git
