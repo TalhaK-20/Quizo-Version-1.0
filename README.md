@@ -1,4 +1,4 @@
-# Quizo Version 1.0.0
+# Quizo Version 1.0
 
 ## Overview
 
@@ -12,7 +12,7 @@
 
 ## Video Showcase
 
-https://github.com/TalhaK-20/Quizo-Version-1.0.0/assets/131589476/d2c292d7-419a-4798-86ee-69a5238f03f2
+https://github.com/TalhaK-20/Quizo-Version-1.0/assets/131589476/d2c292d7-419a-4798-86ee-69a5238f03f2
 
 ## Requirements
 
@@ -24,7 +24,7 @@ https://github.com/TalhaK-20/Quizo-Version-1.0.0/assets/131589476/d2c292d7-419a-
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/TalhaK-20/Quizo-Version-1.0.0.git
+    git clone https://github.com/TalhaK-20/Quizo-Version-1.0.git
     ```
 
 2. Open the project in Android Studio.
